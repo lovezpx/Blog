@@ -397,7 +397,6 @@ servlet容器也叫web容器，比如tomcat。它的主要职责如下：
 
 > Servlet则是个完整的Java类，这个类的Service方法用于生成对客户端的响应。
 
-
 ---
 ### 四、JVM
 
@@ -453,3 +452,10 @@ servlet容器也叫web容器，比如tomcat。它的主要职责如下：
 4、介绍GC和GC Root不正常引用
 
 > java内存区域
+
+---
+### 五、开源框架
+
+1、hibernate和ibatis的区别
+
+2、Mybatis连接池
