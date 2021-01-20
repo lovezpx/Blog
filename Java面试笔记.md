@@ -459,3 +459,15 @@ servlet容器也叫web容器，比如tomcat。它的主要职责如下：
 1、hibernate和ibatis的区别
 
 2、Mybatis连接池
+
+3、Spring框架中需要引用哪些jar包，以及这些jar包的用途
+
+4、SpringMVC的原理
+
+5、SpringMVC注解的意思
+
+6、Spring中beanFactory和ApplicationContext的联系和区别
+
+7、Spring依赖注入的三种方式
+
+8、Spring如何实现事物管理的
