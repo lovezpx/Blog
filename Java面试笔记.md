@@ -1,5 +1,11 @@
 # Java学习笔记
+<!-- TOC depthFrom:2 orderedList:false updateOnSave:true -->
 
+- [一、JAVA基础](#一java基础)
+    - [1、String类](#1string类)
+    - [2、HashMap类](#2hashmap类)
+
+<!-- /TOC -->
 ### 一、JAVA基础
 
 #### 1、String类
@@ -529,3 +535,17 @@ servlet容器也叫web容器，比如tomcat。它的主要职责如下：
 9、Mybatis缓存问题
 
 10、ConcurrentHashMap
+
+11、Mqsql执行计划
+
+12、Oracle、Mysql递归查询
+
+13、微服务相关
+
+14、网络协议 UDP协议流量控制和如何保证顺序
+
+15、子类继承父类，实例化时会通过调用父类构造函数的形式集成父类属性
+
+16、Mysql in函数的长度</br>&emsp;&emsp;限制为1000，超多1000会报错，如果强行使用可以用or分割
+
+17、mybatis批量执行</br>&emsp;&emsp;1、在Mapper.xml中使用foreach标签，将集合遍历拼接成批量执行sql</br>&emsp;&emsp;2、创建sqlsession时指定获取ExcutorType.Batch，设置不自动提交
