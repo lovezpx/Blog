@@ -549,3 +549,9 @@ servlet容器也叫web容器，比如tomcat。它的主要职责如下：
 16、Mysql in函数的长度</br>&emsp;&emsp;限制为1000，超多1000会报错，如果强行使用可以用or分割
 
 17、mybatis批量执行</br>&emsp;&emsp;1、在Mapper.xml中使用foreach标签，将集合遍历拼接成批量执行sql</br>&emsp;&emsp;2、创建sqlsession时指定获取ExcutorType.Batch，设置不自动提交
+
+18、tomcat为何打破双亲委派
+
+19、微服务到底是什么
+
+20、线程池的实现原理
